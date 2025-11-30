@@ -1,9 +1,0 @@
-pyproject.toml
-src/a_sample_project.egg-info/PKG-INFO
-src/a_sample_project.egg-info/SOURCES.txt
-src/a_sample_project.egg-info/dependency_links.txt
-src/a_sample_project.egg-info/entry_points.txt
-src/a_sample_project.egg-info/top_level.txt
-src/snakesay/__init__.py
-src/snakesay/__main__.py
-src/snakesay/snake.py
