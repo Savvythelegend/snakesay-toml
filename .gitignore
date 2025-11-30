@@ -1,7 +1,10 @@
 __pycache__/
 venv/
-.egg-info/
 dist/
 env/
 .venv/
 build/
+
+# ignore any egg-info directories or files anywhere
+*.egg-info/
+*.egg-info
