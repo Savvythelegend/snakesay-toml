@@ -1,0 +1,10 @@
+pyproject.toml
+src/snakesay/__init__.py
+src/snakesay/__main__.py
+src/snakesay/snake.py
+src/snakesay.egg-info/PKG-INFO
+src/snakesay.egg-info/SOURCES.txt
+src/snakesay.egg-info/dependency_links.txt
+src/snakesay.egg-info/entry_points.txt
+src/snakesay.egg-info/requires.txt
+src/snakesay.egg-info/top_level.txt
